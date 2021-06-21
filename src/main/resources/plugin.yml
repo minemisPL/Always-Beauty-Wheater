@@ -1,0 +1,7 @@
+name: AlwaysBeautyWeather1.16
+version: ${project.version}
+main: me.minemis.alwaysbeautyweather.AlwaysBeautyWeather
+api-version: 1.16
+commands:
+  abweather:
+    usage: /abweather
